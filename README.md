@@ -25,15 +25,11 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black">
+  <img align= "center" alt="python-icon" src="https://img.shields.io/badge/JavaScript-EFD91D?style=for-the-badge&logo=python&logoColor=black">
+  <img align="center" alt= "chatgpt" src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white">
 ">
   
   
-</div>
-
-### Outros
-<div style="display: inline_block"><br>
-  <img align="left" height="250" alt="coding-time" src="code.gif">
-  <img align= "center" alt="python-icon" src="https://img.shields.io/badge/JavaScript-EFD91D?style=for-the-badge&logo=python&logoColor=black">
 </div>
 
 <div align="center">
