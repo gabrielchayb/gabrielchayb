@@ -23,10 +23,18 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black">
-  <img align= "center" alt="python-icon" src="https://img.shields.io/badge/JavaScript-EFD91D?style=for-the-badge&logo=python&logoColor=black">
-  <img align="center" alt= "tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=whit">
+  
+
+### Bancos de Dados: 
+<div style="display: inline_block"><br>
   <img align="center" alt= "mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-">
+  
+### Ferramentas/Frameworks:
+<div style="display: inline_block"><br>
+  <img align="center" alt= "tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=whit">
+
+  
+### Redes Sociais: 
 
 
 <div align="center">
