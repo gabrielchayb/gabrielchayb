@@ -25,7 +25,7 @@
   <img align="center" alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black">
   <img align= "center" alt="python-icon" src="https://img.shields.io/badge/JavaScript-EFD91D?style=for-the-badge&logo=python&logoColor=black">
   <img align="center" alt= "tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=whit">
-  <img align="center" alt= "mongodb" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=whit">
+  <img align="center" alt= "mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 ">
 
 
