@@ -28,12 +28,6 @@
   <img align="center" alt= "mongodb" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=whit">
 ">
 
-### Principais Bancos de Dados: 
-<div style="display: inline_block"><br>
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  
-</div>
 
 <div align="center">
   <br>
