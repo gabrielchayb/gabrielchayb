@@ -1,18 +1,18 @@
-# Welcome!
+# Bem Vindo!
 
  
 
-## I'm Gabriel Chayb!
+## Eu sou o Gabriel!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: Sou um desenvolvedor Python com mais de 8 anos de experiência no mercado de tecnologia.
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Codificar é uma engenharia, programar é uma arte.
 
-:books: I’m currently learning everything.
+:books: Estudar e manter-se atualizado é preciso.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: Eu faço as máquinas aprenderem a ler pensamentos!
 
  
 
@@ -22,34 +22,28 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
-
 ----------------------------------------------------------------------------------
 
 *OBS onde está escrito em maiúsculo você deve escrever suas informações:
 
-(SEU NOME) = Hellen.
+Gabriel Ribeiro = Hellen.
 
-LINK_GIT = https://github.com/hellenmas.
-
+LINK_GIT = https://github.com/gabrielchayb.
 
 <code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 
-
+https://github.com/anuraghazra/github-readme-stats#themes
 
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
 
 
+NOMEGIT= gabrielchayb. 
 
-[![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/hellenmas/github-readme-stats)
+[![gabrielchayb GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/hellenmas/github-readme-stats)
 
 
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-
-
-
 
