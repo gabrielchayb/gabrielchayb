@@ -21,7 +21,7 @@
 <div style="display: inline_block"><br>
   <img align="left" height="250" alt="coding-time" src="code.gif">
   <img align= "center" alt="python-icon" src="https://img.shields.io/badge/Python-07436e?style=for-the-badge&logo=python&logoColor=yellow">
-  <img align= "center" alt="java-icon" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align= "center" alt="c++-icon" src="https://img.shields.io/badge/c++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="spring-icon"  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align= "center" alt="django-icon" src="https://img.shields.io/badge/Django-254B33?style=for-the-badge&logo=django&logoColor=white">
   <img align= "center" alt="drf-icon" src="https://img.shields.io/badge/Django%20REST%20Framework-802D2D?style=for-the-badge&logo=django&logoColor=white">
