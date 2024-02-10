@@ -21,7 +21,9 @@
 <div style="display: inline_block"><br>
   <img align="left" height="250" alt="coding-time" src="code.gif">
   <img align= "center" alt="python-icon" src="https://img.shields.io/badge/Python-07436e?style=for-the-badge&logo=python&logoColor=yellow">
-  <img src="{https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white}" />
+  <img align= "center" alt="upwork-icon" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white
+">
+  
   
 </div>
 
