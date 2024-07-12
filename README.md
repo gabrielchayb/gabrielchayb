@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Gabriel+Chayb;Tenho+8+anos+no+mercado+de+tech!;Sou+desenvolvedor+web+e+engenheiro+de+dados.;Codificar+é+uma+engenharia.+Programar+é+uma+arte!;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Gabriel+Chayb;Tenho+3+anos+no+mercado+de+tech!;Sou+desenvolvedor+web+e+engenheiro+de+dados.;Codificar+é+uma+engenharia.+Programar+é+uma+arte!;Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielchayb&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&PAT_1" alt="Gabriel github stats" /> 
