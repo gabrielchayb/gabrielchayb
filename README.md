@@ -59,19 +59,11 @@ const gabriel = {
 
 <br>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielchayb&theme=darkhub&row=1&column=6&no-bg=true&no-frame=true&margin-w=10" />
-</p>
-
----
-
 <div align="center">
 
 ### 🌐 Connect
 
-<a href="https://www.linkedin.com/in/gabriel-chayb-developer/">
+<a href="https://www.linkedin.com/in/gabriel-chayb/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/gabrielchayb">
@@ -81,7 +73,3 @@ const gabriel = {
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=gabrielchayb&color=00bfbf&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:003d3d,100:00bfbf&height=120&section=footer"/>
